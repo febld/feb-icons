@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet href="feb-icons.css" type="text/css"?>
+
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32">
+
+  <title>downdown (FEB svg icon)</title>
+
+  <rect x="0" y="0" width="32" height="32" rx="5" />
+  <polyline points="6,7 16,17 25,7" />
+  <polyline points="6,15 16,25 25,15" />
+
+</svg>

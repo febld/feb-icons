@@ -1,0 +1,19 @@
+rect {
+    fill:none;
+    stroke:black;
+    stroke-width:1;
+    stroke-linejoin:round;
+}
+line {
+    stroke:black;
+    stroke-width:1;
+    stroke-linecap:round;
+    stroke-linejoin:round;
+}
+polyline {
+    fill:none;
+    stroke:black;
+    stroke-width:1;
+    stroke-linecap:round;
+    stroke-linejoin:round;
+}

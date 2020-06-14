@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet href="feb-icons.css" type="text/css"?>
+
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32">
+
+<title>plus sign (FEB svg icon)</title>
+
+<rect x="0" y="0" width="32" height="32" rx="5" />
+<line x1="9" y1="16" x2="23" y2="16" />
+<line x1="16" y1="9" x2="16" y2="23" />
+</svg>

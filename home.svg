@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet href="feb-icons.css" type="text/css"?>
+
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32">
+
+  <title>home (FEB svg icon)</title>
+
+  <rect x="0" y="0" width="32" height="32" rx="5" />
+  <rect x="7" y="11" width="17" height="15" />
+  <polyline points="5,11 15,4 26,11" />
+  <polyline points="13,24 13,18 18,18 18,24" />
+-->
+
+</svg>
