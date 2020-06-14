@@ -3,8 +3,9 @@
 
 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32">
 
-<title>minus sign (FEB svg icon)</title>
+  <title>feb-icons: minus</title>
 
-<rect x="0" y="0" width="32" height="32" rx="5" />
-<line x1="9" y1="16" x2="23" y2="16" />
+  <rect x="0" y="0" width="32" height="32" rx="5" />
+  <line x1="9" y1="16" x2="23" y2="16" />
+
 </svg>
