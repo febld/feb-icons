@@ -3,11 +3,10 @@
 
 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32">
 
-  <title>feb-icons: home</title>
+  <title>feb-icons: arrow-down</title>
 
   <rect x="0" y="0" width="32" height="32" rx="5" />
-  <rect x="7" y="11" width="17" height="15" />
-  <polyline points="5 11, 15 4, 26 11" />
-  <polyline points="13 25, 13 18, 18 18, 18 25" />
+
+  <polygon  points="8 9, 16 25, 24 9" />
 
 </svg>
