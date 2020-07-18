@@ -7,7 +7,7 @@
 
   <rect class="border" x="0" y="0" width="32" height="32" rx="5" />
 
-  <polyline points="6,25 16,15 25,25" />
-  <polyline points="6,17 16,7 25,17" />
+  <polyline points="8,25 16,14 24,25" />
+  <polyline points="8,17 16,6 24,17" />
 
 </svg>

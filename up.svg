@@ -7,6 +7,6 @@
 
   <rect class="border" x="0" y="0" width="32" height="32" rx="5" />
 
-  <polyline points="6,21 16,11 25,21" />
+  <polyline points="8,21 16,10 24,21" />
 
 </svg>
