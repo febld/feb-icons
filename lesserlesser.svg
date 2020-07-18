@@ -5,8 +5,9 @@
 
   <title>feb-icons: lesserlesser</title>
 
-  <rect x="0" y="0" width="32" height="32" rx="5" />
+  <rect class="border" x="0" y="0" width="32" height="32" rx="5" />
+
   <polyline points="16,10 5,17 16,25" />
-  <polyline points="24,10 13,17 24,25" />
+  <polyline points="26,10 15,17 26,25" />
 
 </svg>

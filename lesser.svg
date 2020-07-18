@@ -5,7 +5,8 @@
 
   <title>feb-icons: lesser</title>
 
-  <rect x="0" y="0" width="32" height="32" rx="5" />
+  <rect class="border" x="0" y="0" width="32" height="32" rx="5" />
+
   <polyline points="20,10 9,17 20,25" />
 
 </svg>

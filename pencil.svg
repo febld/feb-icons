@@ -5,7 +5,7 @@
 
   <title>feb-icons: pencil</title>
 
-  <rect x="0" y="0" width="32" height="32" rx="5" />
+  <rect class="border" x="0" y="0" width="32" height="32" rx="5" />
 
   <g transform="rotate(-45)">
     <rect x="-9" y="19" width="23" height="9" />

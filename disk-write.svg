@@ -3,10 +3,12 @@
 
 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32">
 
-  <title>feb-icons: greater</title>
+  <title>feb-icons: disk-write</title>
 
   <rect class="border" x="0" y="0" width="32" height="32" rx="5" />
 
-  <polyline points="10,10 21,17 10,25" />
+  <polyline points="5 15, 5 27, 27 27, 27 15, 5 15" />
+  <polygon points="10 17, 16 24, 22 17" />
+  <line x1="16" y1="17" x2="16" y2="3" />
 
 </svg>

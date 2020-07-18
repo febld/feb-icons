@@ -5,7 +5,8 @@
 
   <title>feb-icons: minus</title>
 
-  <rect x="0" y="0" width="32" height="32" rx="5" />
+  <rect class="border" x="0" y="0" width="32" height="32" rx="5" />
+
   <line x1="9" y1="16" x2="23" y2="16" />
 
 </svg>

@@ -5,7 +5,7 @@
 
   <title>feb-icons: arrow-left</title>
 
-  <rect x="0" y="0" width="32" height="32" rx="5" />
+  <rect class="border" x="0" y="0" width="32" height="32" rx="5" />
 
   <polygon  points="6 16, 22 8, 22 24" />
 

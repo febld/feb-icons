@@ -1,3 +1,8 @@
+rect.border {
+    fill:none;
+    stroke:black;
+    stroke-width:1;
+}
 rect {
     fill:none;
     stroke:black;
@@ -23,4 +28,9 @@ path {
     stroke-width:2;
     stroke-linecap:round;
     stroke-linejoin:round;
+}
+ellipse {
+    fill:none;
+    stroke:black;
+    stroke-width:2;
 }
