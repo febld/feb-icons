@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet href="feb-icons.css" type="text/css"?>
+
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32">
+
+  <title>feb-icons: dustbin-noborder</title>
+
+  <line x1="13" y1="5" x2="18" y2="5" />
+  <line x1="6" y1="8" x2="26" y2="8" />
+  <line x1="13" y1="10" x2="13" y2="24" />
+  <line x1="19" y1="10" x2="19" y2="24" />
+  <polyline points="8 10, 8 26, 24 26, 24 10" />
+
+</svg>

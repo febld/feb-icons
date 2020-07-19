@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet href="feb-icons.css" type="text/css"?>
+
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32">
+
+  <title>feb-icons: pencil (no border)</title>
+
+  <g transform="rotate(-45)">
+    <rect x="-9" y="19" width="23" height="9" />
+    <line x1="-9" y1="22" x2="14" y2="22" />
+    <line x1="-9" y1="25" x2="14" y2="25" />
+    <polyline points="-9 19, -18 24, -9 28" />
+    <polygon  points="-13 21, -18 24, -13 27" />
+  </g>
+
+</svg>

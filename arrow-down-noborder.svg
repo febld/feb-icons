@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet href="feb-icons.css" type="text/css"?>
+
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32">
+
+  <title>feb-icons: arrow-down (no border)</title>
+
+  <polygon  points="8 9, 16 25, 24 9" />
+
+</svg>
