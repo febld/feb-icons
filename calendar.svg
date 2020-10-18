@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?xml-stylesheet href="feb-icons.css" type="text/css"?>
 
 <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32">
+
+  <style>
+    rect.border {
+        fill:none;
+        stroke:black;
+        stroke-width:1;
+    }
+    rect {
+        fill:none;
+        stroke:black;
+        stroke-width:2;
+        stroke-linejoin:round;
+    }
+    line {
+        stroke:black;
+        stroke-width:2;
+        stroke-linecap:round;
+        stroke-linejoin:round;
+    }
+  </style>
 
   <title>feb-icons: calendar</title>
 
