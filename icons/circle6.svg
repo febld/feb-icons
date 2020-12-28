@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32">
+
+  <style>
+    rect.border {
+        fill:none;
+        stroke:black;
+        stroke-width:1;
+    }
+  </style>
+
+  <title>feb-icons: circle6</title>
+
+  <rect class="border" x="0" y="0" width="32" height="32" rx="5" />
+
+  <circle cx="16" cy="16" r="6" stroke="black" stroke-width="1" fill="transparent" />
+
+</svg>
