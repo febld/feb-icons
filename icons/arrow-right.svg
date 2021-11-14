@@ -8,12 +8,26 @@
         stroke:black;
         stroke-width:1;
     }
+    line {
+        stroke:black;
+        stroke-width:2;
+        stroke-linecap:round;
+        stroke-linejoin:round;
+    }
+    polyline {
+        fill:none;
+        stroke:black;
+        stroke-width:2;
+        stroke-linecap:round;
+        stroke-linejoin:round;
+    }
   </style>
 
-  <title>feb-icons: arrow-right</title>
+  <title>feb-icons: arrow-left</title>
 
   <rect class="border" x="0" y="0" width="32" height="32" rx="5" />
 
-  <polygon  points="10 8, 10 24, 26 16" />
+  <polygon points="18 10, 25 16, 18 22" />
+  <line x1="7" y1="16" x2="18" y2="16" />
 
 </svg>
